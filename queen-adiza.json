@@ -1,6 +1,6 @@
 {
-  "version_code": 19,
-  "version_name": "2.4.20",
+  "version_code": 20,
+  "version_name": "2.4.22",
   "apk_url": "https://github.com/Matrix1999/Queen_Adiza_updater/releases/download/V_3/Queen-Adiza-Bot-2.4.20-unsigned_sign.apk",
   "changelog": "Adds Bot Management controls and private storage cleanup.",
   "update_size": "35.3 MB",
