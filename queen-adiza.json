@@ -1,9 +1,9 @@
 {
   "version_code": 2,
   "version_name": "2.4.9",
-  "apk_url": "",
+  "apk_url": "https://github.com/Matrix1999/Queen_Adiza_updater/releases/download/V_3/Queen-Adiza-Bot-2.4.20-unsigned_sign.apk",
   "changelog": "Queen Adiza Bot update channel initialized. A signed APK will be published here when the first update is ready.",
-  "update_size": "—",
+  "update_size": "35mb",
   "force_update": false,
   "release_date": "2026-11-25"
 }
